@@ -1,4 +1,4 @@
-onst botoes = document.querySelectorAll(".botao");
+const botoes = document.querySelectorAll(".botao");
 const textos = document.querySelectorAll(".aba-conteudo");
 
 botoes[i].classList.add("ativo");
